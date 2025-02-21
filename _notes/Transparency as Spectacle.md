@@ -1,3 +1,6 @@
+---
+title: Transparency as Spectacle
+---
 My friend recently asked me why the music industry doesn't use blockchain technology to guarantee artist royalties. I'll answer that, but while I do, consider a reframing of the question to: "Who gets to extract value from creative work?" 
 
 Let's consider some of the implicit assumptions in the original question. 
